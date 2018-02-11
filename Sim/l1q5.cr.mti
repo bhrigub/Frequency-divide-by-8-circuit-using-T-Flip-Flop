@@ -1,0 +1,43 @@
+C:/Users/Admin/Desktop/VERILOG/Lab_Work/B/Lab1/Q5/Src/d_latch.v {1 {vlog -work work -vopt C:/Users/Admin/Desktop/VERILOG/Lab_Work/B/Lab1/Q5/Src/d_latch.v
+QuestaSim vlog 10.1d Compiler 2012.11 Nov  1 2012
+-- Compiling module dl
+
+Top level modules:
+	dl
+
+} {} {}} C:/Users/Admin/Desktop/VERILOG/Lab_Work/B/Lab1/Q5/Src/div_by_8.v {1 {vlog -work work -vopt C:/Users/Admin/Desktop/VERILOG/Lab_Work/B/Lab1/Q5/Src/div_by_8.v
+QuestaSim vlog 10.1d Compiler 2012.11 Nov  1 2012
+-- Compiling module divby8
+
+Top level modules:
+	divby8
+
+} {} {}} C:/Users/Admin/Desktop/VERILOG/Lab_Work/B/Lab1/Q5/Src/tff.v {1 {vlog -work work -vopt C:/Users/Admin/Desktop/VERILOG/Lab_Work/B/Lab1/Q5/Src/tff.v
+QuestaSim vlog 10.1d Compiler 2012.11 Nov  1 2012
+-- Compiling module tff1
+
+Top level modules:
+	tff1
+
+} {} {}} C:/Users/Admin/Desktop/VERILOG/Lab_Work/B/Lab1/Q5/Src/mux2_1.v {1 {vlog -work work -vopt C:/Users/Admin/Desktop/VERILOG/Lab_Work/B/Lab1/Q5/Src/mux2_1.v
+QuestaSim vlog 10.1d Compiler 2012.11 Nov  1 2012
+-- Compiling module mux2_1
+
+Top level modules:
+	mux2_1
+
+} {} {}} C:/Users/Admin/Desktop/VERILOG/Lab_Work/B/Lab1/Q5/Src/tb_tff.v {1 {vlog -work work -vopt C:/Users/Admin/Desktop/VERILOG/Lab_Work/B/Lab1/Q5/Src/tb_tff.v
+QuestaSim vlog 10.1d Compiler 2012.11 Nov  1 2012
+-- Compiling module tb
+
+Top level modules:
+	tb
+
+} {} {}} C:/Users/Admin/Desktop/VERILOG/Lab_Work/B/Lab1/Q5/Src/dlmux.v {1 {vlog -work work -vopt C:/Users/Admin/Desktop/VERILOG/Lab_Work/B/Lab1/Q5/Src/dlmux.v
+QuestaSim vlog 10.1d Compiler 2012.11 Nov  1 2012
+-- Compiling module dlmux
+
+Top level modules:
+	dlmux
+
+} {} {}}

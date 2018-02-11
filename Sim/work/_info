@@ -1,0 +1,113 @@
+m255
+K3
+13
+cModel Technology
+dC:\questasim_10.1d\examples
+vdivby8
+VOzE23ahU@L9JZmA2WaL^C2
+r1
+31
+IX08`VT9J:kVEW?86n<cE13
+Z0 dC:\Users\Admin\Desktop\VERILOG\Lab_Work\B\Lab1\Q5\Sim
+w1431528974
+8C:/Users/Admin/Desktop/VERILOG/Lab_Work/B/Lab1/Q5/Src/div_by_8.v
+FC:/Users/Admin/Desktop/VERILOG/Lab_Work/B/Lab1/Q5/Src/div_by_8.v
+L0 1
+Z1 OE;L;10.1d;51
+Z2 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!s85 0
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Admin/Desktop/VERILOG/Lab_Work/B/Lab1/Q5/Src/div_by_8.v|
+!s100 HF[IPjI]7aMPGiD_[c6i`3
+!s108 1431528993.724000
+!s107 C:/Users/Admin/Desktop/VERILOG/Lab_Work/B/Lab1/Q5/Src/div_by_8.v|
+!i10b 1
+vdl
+V<TPlb=EThFB89nh]nOenk1
+r1
+31
+IckFhl;G;8CjOc]Q1mIDo83
+Z3 dC:\Users\Admin\Desktop\VERILOG\Lab_Work\B\Lab1\Q5\Sim
+w1430737192
+8C:/Users/Admin/Desktop/VERILOG/Lab_Work/B/Lab1/Q5/Src/d_latch.v
+FC:/Users/Admin/Desktop/VERILOG/Lab_Work/B/Lab1/Q5/Src/d_latch.v
+L0 1
+R1
+R2
+!s85 0
+!s100 UU<XL;4oXM4SX6n=;5=K80
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Admin/Desktop/VERILOG/Lab_Work/B/Lab1/Q5/Src/d_latch.v|
+!s108 1431528993.521000
+!s107 C:/Users/Admin/Desktop/VERILOG/Lab_Work/B/Lab1/Q5/Src/d_latch.v|
+!i10b 1
+vdlmux
+VN5XWR>6NNnl^8[QW7VPn01
+r1
+31
+I;3nKT_AHZ3kbCT28nmG[11
+R3
+w1430842270
+8C:/Users/Admin/Desktop/VERILOG/Lab_Work/B/Lab1/Q5/Src/dlmux.v
+FC:/Users/Admin/Desktop/VERILOG/Lab_Work/B/Lab1/Q5/Src/dlmux.v
+L0 1
+R1
+R2
+!s85 0
+!s100 UZ:FQacil2Y=Q<LYcOJPa1
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Admin/Desktop/VERILOG/Lab_Work/B/Lab1/Q5/Src/dlmux.v|
+!s108 1431528993.880000
+!s107 C:/Users/Admin/Desktop/VERILOG/Lab_Work/B/Lab1/Q5/Src/dlmux.v|
+!i10b 1
+vmux2_1
+VgS]787n8H>zKcB7LgN0CL0
+r1
+!s85 0
+31
+IF=Ig;F6_QFI[jlGfz:WP03
+R3
+w1430839839
+8C:/Users/Admin/Desktop/VERILOG/Lab_Work/B/Lab1/Q5/Src/mux2_1.v
+FC:/Users/Admin/Desktop/VERILOG/Lab_Work/B/Lab1/Q5/Src/mux2_1.v
+L0 1
+R1
+R2
+!s100 m?Ugb]VPd2`ESGKC3o2Q<0
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Admin/Desktop/VERILOG/Lab_Work/B/Lab1/Q5/Src/mux2_1.v|
+!s108 1431528994.052000
+!s107 C:/Users/Admin/Desktop/VERILOG/Lab_Work/B/Lab1/Q5/Src/mux2_1.v|
+!i10b 1
+vtb
+VV@Xn<HnSRM[I5c1?BH]3a3
+r1
+31
+IdL:kZ8VEC5]E1_o3LoBE?0
+R3
+w1431528979
+8C:/Users/Admin/Desktop/VERILOG/Lab_Work/B/Lab1/Q5/Src/tb_tff.v
+FC:/Users/Admin/Desktop/VERILOG/Lab_Work/B/Lab1/Q5/Src/tb_tff.v
+L0 1
+R1
+R2
+!s85 0
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Admin/Desktop/VERILOG/Lab_Work/B/Lab1/Q5/Src/tb_tff.v|
+!s100 ko?=FFkaQYbZf3[57hS:c0
+!s108 1431528994.208000
+!s107 C:/Users/Admin/Desktop/VERILOG/Lab_Work/B/Lab1/Q5/Src/tb_tff.v|
+!i10b 1
+vtff1
+VCmUZ7`M_ZAH1[Q5?njB973
+r1
+31
+Ink6mzlSYEC5Bg7JV2;[A>0
+R3
+w1430840110
+8C:/Users/Admin/Desktop/VERILOG/Lab_Work/B/Lab1/Q5/Src/tff.v
+FC:/Users/Admin/Desktop/VERILOG/Lab_Work/B/Lab1/Q5/Src/tff.v
+L0 1
+R1
+R2
+!s85 0
+!s100 9Q_M3[BfL8ca_Z4Fh?=E[0
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Admin/Desktop/VERILOG/Lab_Work/B/Lab1/Q5/Src/tff.v|
+!i10b 1
+!s108 1431528994.364000
+!s107 C:/Users/Admin/Desktop/VERILOG/Lab_Work/B/Lab1/Q5/Src/tff.v|

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"E:\Verilog\150240133004\Lab1\Q5\Src\tff.v" Line 6: Assignment to <arg fmt="%s" index="1">tnq1</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"E:\Verilog\150240133004\Lab1\Q5\Src\div_by_8.v" Line 3: Assignment to <arg fmt="%s" index="1">nq1</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"E:\Verilog\150240133004\Lab1\Q5\Src\div_by_8.v" Line 4: Assignment to <arg fmt="%s" index="1">nq2</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"E:\Verilog\150240133004\Lab1\Q5\Src\div_by_8.v" Line 5: Assignment to <arg fmt="%s" index="1">nq3</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\Verilog\150240133004\Lab1\Q5\Src\div_by_8.v</arg>&quot; line <arg fmt="%s" index="2">3</arg>: Output port &lt;<arg fmt="%s" index="3">nq</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">t1</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\Verilog\150240133004\Lab1\Q5\Src\div_by_8.v</arg>&quot; line <arg fmt="%s" index="2">4</arg>: Output port &lt;<arg fmt="%s" index="3">nq</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">t2</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\Verilog\150240133004\Lab1\Q5\Src\div_by_8.v</arg>&quot; line <arg fmt="%s" index="2">5</arg>: Output port &lt;<arg fmt="%s" index="3">nq</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">t3</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\Verilog\150240133004\Lab1\Q5\Src\tff.v</arg>&quot; line <arg fmt="%s" index="2">6</arg>: Output port &lt;<arg fmt="%s" index="3">nq</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">dl1</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="warning" file="Xst" num="2170" delta="new" >Unit <arg fmt="%s" index="1">divby8</arg> : the following signal(s) form a combinatorial loop: </msg>
+
+</messages>
+

@@ -1,0 +1,5 @@
+verilog work "../../Src/mux2_1.v"
+verilog work "../../Src/d_latch.v"
+verilog work "../../Src/dlmux.v"
+verilog work "../../Src/tff.v"
+verilog work "../../Src/div_by_8.v"
